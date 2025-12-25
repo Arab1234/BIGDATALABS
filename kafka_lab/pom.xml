@@ -61,10 +61,10 @@
 </descriptorRefs>
 <archive>
 <manifest>
-<mainClass>edu.supmti.kafka.WordProducer</mainClass>
+<mainClass>edu.supmti.kafka.WordProducerNew</mainClass>
 </manifest>
 </archive>
-<finalName>WordProducer</finalName>
+<finalName>WordProducerNew</finalName>
 </configuration>
 <executions>
 <execution>

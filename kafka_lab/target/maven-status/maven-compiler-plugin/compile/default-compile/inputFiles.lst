@@ -1,6 +1,8 @@
 /Users/ayoub/Documents/BIGDATA/BigdataLabs/kafka_lab/src/main/java/edu/supmti/kafka/EventConsumer.java
 /Users/ayoub/Documents/BIGDATA/BigdataLabs/kafka_lab/src/main/java/edu/supmti/kafka/WordCountConsumer.java
+/Users/ayoub/Documents/BIGDATA/BigdataLabs/kafka_lab/src/main/java/edu/supmti/kafka/WordProducerNew.java
 /Users/ayoub/Documents/BIGDATA/BigdataLabs/kafka_lab/src/main/java/edu/supmti/kafka/WordCountApp.java
 /Users/ayoub/Documents/BIGDATA/BigdataLabs/kafka_lab/src/main/java/edu/supmti/kafka/WordProducer.java
 /Users/ayoub/Documents/BIGDATA/BigdataLabs/kafka_lab/src/main/java/edu/supmti/kafka/EventProducer.java
+/Users/ayoub/Documents/BIGDATA/BigdataLabs/kafka_lab/src/main/java/edu/supmti/kafka/WordConsumerNew.java
 /Users/ayoub/Documents/BIGDATA/BigdataLabs/kafka_lab/src/main/java/edu/supmti/kafka/Main.java

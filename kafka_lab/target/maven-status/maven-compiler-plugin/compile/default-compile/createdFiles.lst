@@ -3,4 +3,6 @@ edu/supmti/kafka/WordCountApp.class
 edu/supmti/kafka/EventProducer.class
 edu/supmti/kafka/Main.class
 edu/supmti/kafka/WordProducer.class
+edu/supmti/kafka/WordConsumerNew.class
+edu/supmti/kafka/WordProducerNew.class
 edu/supmti/kafka/WordCountConsumer.class
